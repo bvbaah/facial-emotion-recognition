@@ -1,0 +1,10 @@
+tensorflow
+keras
+matplotlib
+scikit-learn
+pandas
+seaborn
+opencv-python
+numpy
+gradio
+augmentor
