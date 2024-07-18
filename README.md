@@ -1,4 +1,8 @@
 # Emotion Recognition Using Convolutional Neural Network
+
+### Link to Live Web Application
+https://huggingface.co/spaces/bvanbaa/fer-app
+
 ## Overview
 This project focuses on developing a convolutional neural network (CNN) to recognize a wide array of human emotions from visual content. The model is built and trained using TensorFlow and Keras, with image processing techniques employed to balance the dataset. Visualizations and a user-friendly interface enhance the usability and interpretability of the model.
 
